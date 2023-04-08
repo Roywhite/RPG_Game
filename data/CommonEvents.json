@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":201,"indent":0,"parameters":[0,13,0,18,6,0]},{"code":214,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"去常暗森林","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":201,"indent":0,"parameters":[0,14,24,15,4,0]},{"code":223,"indent":0,"parameters":[[0,0,0,0],1,true]},{"code":214,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"返回常暗森林小道","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":201,"indent":0,"parameters":[0,10,6,5,8,0]},{"code":214,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"从常暗返回世界地图","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

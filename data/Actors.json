@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"???","nickname":"???","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"drinkBoss_pk","characterIndex":0,"characterName":"drinkBoss_walk","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"drinkBoss_happy","traits":[],"initialLevel":1,"maxLevel":99,"name":"酒店老板","nickname":"","note":"<Show HP Gauge>\n<HP Gauge Width:300>\n<HP Gauge Height:30>\n<Show Turns>","profile":""},
+{"id":5,"battlerName":"test","characterIndex":0,"characterName":"test","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"test","traits":[],"initialLevel":1,"maxLevel":99,"name":"Huber","nickname":"虎贝尔","note":"<Show HP Gauge>\n<HP Gauge Width:300>\n<HP Gauge Height:30>\n<Show Turns>","profile":"一个从人类世界来的兽人，目前暂不清楚以前的经历，失忆中。"}
+]
